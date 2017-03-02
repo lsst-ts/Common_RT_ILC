@@ -9,6 +9,7 @@
 		<Item Name="ILCConstants.ctl" Type="VI" URL="../DataTypes/ILCConstants.ctl"/>
 		<Item Name="ILCData.ctl" Type="VI" URL="../DataTypes/ILCData.ctl"/>
 		<Item Name="ILCResponses.ctl" Type="VI" URL="../DataTypes/ILCResponses.ctl"/>
+		<Item Name="ILCScanRates.ctl" Type="VI" URL="../DataTypes/ILCScanRates.ctl"/>
 		<Item Name="ILCSettings.ctl" Type="VI" URL="../DataTypes/ILCSettings.ctl"/>
 		<Item Name="ILCTelemetry.ctl" Type="VI" URL="../DataTypes/ILCTelemetry.ctl"/>
 	</Item>
