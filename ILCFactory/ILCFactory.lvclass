@@ -26,7 +26,7 @@
 	<Item Name="ILCFactory.ctl" Type="Class Private Data" URL="ILCFactory.ctl">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
-	<Item Name="Public" Type="Folder">
+	<Item Name="PublicMethods" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
 		<Item Name="create.vi" Type="VI" URL="../create.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!+&gt;!!!!&amp;A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#:!=!!?!!!:#V*535R$,GRW&lt;'FC#UF-1SZM&gt;G.M98.T!!.*4%-!/E"Q!"Y!!#!,5F2*4%-O&lt;(:M;7)335R$2G&amp;D&gt;'^S?3ZM&gt;G.M98.T!!!/35R$2G&amp;D&gt;'^S?3"P&gt;81!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!'U!(!"2"2%.0:G:T:824:7ZT;82J&gt;GFU?1!!%5!(!!N"2%.49W&amp;O5G&amp;U:1!.1!=!"UF-1UVP:'5!&amp;5!(!!^3:7&amp;E1W&amp;M;7*S982J&lt;WY!&amp;5!(!!Z3:8"P=H24:8*W:8**2!!!'5!(!"*3:8"P=H24:8*W:8*4&gt;'&amp;U&gt;8-!!!N!"Q!&amp;5G6T:81!'5!(!".4:825:7VQ&lt;X*B=HF":'2S:8.T!%5!]&gt;6#=I5!!!!##V*535R$,GRW&lt;'FC$EF-1V2J&lt;7FO:X-O9X2M!#*!5!!)!!A!#1!+!!M!$!!.!!Y!$Q&gt;5;7VJ&lt;G&gt;T!!V!"1!'5X6C&lt;G6U!!!.1!5!"U&amp;E:(*F=X-!0!$RV-T,6!!!!!),5F2*4%-O&lt;(:M;7)035R$5W6U&gt;'FO:X-O9X2M!"B!5!!#!"%!%AB4:82U;7ZH=Q!!/%"Q!"Y!!#!,5F2*4%-O&lt;(:M;7)335R$2G&amp;D&gt;'^S?3ZM&gt;G.M98.T!!!.35R$2G&amp;D&gt;'^S?3"J&lt;A"B!0!!$!!$!!1!"1!'!!1!"!!%!!1!"Q!1!"-!&amp;!)!!(A!!!U)!!!!!!!!#1!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#!!!!!A!!!!)!!!!%!!!$1!!!!Q!!!!!!!!!!!!!!1!6!!!!!!</Property>
