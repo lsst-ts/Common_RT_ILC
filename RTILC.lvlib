@@ -12,6 +12,7 @@
 		<Item Name="ILCScanRates.ctl" Type="VI" URL="../DataTypes/ILCScanRates.ctl"/>
 		<Item Name="ILCSettings.ctl" Type="VI" URL="../DataTypes/ILCSettings.ctl"/>
 		<Item Name="ILCTelemetry.ctl" Type="VI" URL="../DataTypes/ILCTelemetry.ctl"/>
+		<Item Name="ILCTimestamps.ctl" Type="VI" URL="../DataTypes/ILCTimestamps.ctl"/>
 		<Item Name="ILCTimings.ctl" Type="VI" URL="../DataTypes/ILCTimings.ctl"/>
 	</Item>
 	<Item Name="ILC.lvclass" Type="LVClass" URL="../ILC/ILC.lvclass"/>
